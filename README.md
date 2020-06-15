@@ -1,7 +1,9 @@
 # FT
 errr i don't now how explain but it will be an app for do a lot of little things like send email, create directory, create file etc.
 
-Now : v 0.1 be there soon.
+Now : v 0.1 is here !!!
+Soon : the v 0.2 lol
 
-between 5 and 10 (i don't the exact number)commands will be avaible in this version.
+The cmd prompt mode allows to use all the cmd prompt commands. Systeminfo and help don't work correctly.
+Sorry for english mistakes
 
