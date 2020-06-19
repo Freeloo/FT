@@ -3,7 +3,7 @@ errr i don't now how explain but it will be an app for do a lot of little things
 
 Now : v 0.2 is here !!!
 
-\nSoon : the v 0.3 lol
+Soon : the v 0.3 lol
 ____________
 UDAPTE - V-0.2, ne "interface", and one new command.
 ____________
