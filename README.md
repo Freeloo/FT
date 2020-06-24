@@ -6,5 +6,5 @@ Soon : the v 0.4
 _______________
 UDAPTE - V-0.3, A new command prompt mode, with output.Correct some bug/pb and add some commands.
 _______________
-The cmd prompt mode allows to use all the cmd prompt commands. Systeminfo and help don't work correctly. Sorry for english mistakes
+Sorry for english mistakes
 
