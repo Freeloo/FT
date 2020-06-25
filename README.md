@@ -1,1 +1,1 @@
-This is for the udapter, this contain the last version of ft.
+This is for the auto installer.
